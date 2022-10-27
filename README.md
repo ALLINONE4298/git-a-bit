@@ -1,2 +1,11 @@
 # git-a-bit
-git notes
+
+a repo dedicated for git, the most famous version control system.
+
+---
+
+## Contents
+
+---
+
+1. Intro to git
