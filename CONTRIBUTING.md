@@ -7,7 +7,7 @@ Kindly follow the instructions carefully.
 
 ### 0. Register for Hacktoberfest
 
-https://hacktoberfest.digitalocean.com/
+https://hacktoberfest.com/
 
 ### 1. Give this Project a Star :star:
 
