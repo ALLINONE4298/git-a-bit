@@ -10,3 +10,4 @@ a repo dedicated for git, the most famous version control system.
 
 1. Intro to git
 2. Installation
+3. Git Basics
